@@ -22,4 +22,5 @@ Conclusion:
 The dashboard provides a holistic global overview of suicide rates, emphasizing the stark disparities between genders and offering insights into trends across generations and age groups. This comprehensive analysis contributes to a deeper understanding of the complex dynamics surrounding suicide on a global scale.
 
 Link: https://public.tableau.com/app/profile/janhvi.pimpalkar/viz/SuicideRateDashboard_17028715328340/Dashboard1
-![image]((Dashboard.png))
+![Dashboard](https://github.com/pimpalkarjanhvi11/Suicide-Rate-Dashboard/assets/145299632/9cd79f89-ec80-45d7-8452-57151b055fda)
+
